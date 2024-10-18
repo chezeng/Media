@@ -1,4 +1,15 @@
-# Brain in a Vat.
+---
+title: "Brain in a Vat"
+date: "2024-08-21"
+preview: "A deep dive into who we truly are and what we really want."
+image: "https://chezeng.github.io/Media/WhatIAM/Brain.jpg"
+labels:
+  - Philosophy
+  - Experience
+---
+
+
+# Brain in a Vat
 
 ### - Created at Aug. 21st, 2024
 
