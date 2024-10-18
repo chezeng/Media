@@ -1,14 +1,3 @@
----
-title: "At the Crossroads of Centuries"
-date: "2024-10-04"
-preview: "An exploration of the technological and cultural intersections between centuries."
-image: "https://chezeng.github.io/Media/WhatIAM/Frutiger.jpg"
-labels:
-  - Philosophy
-  - Software
----
-
-
 # At the Crossroads of Centuries
 
 ### - Created at Oct. 04th, 2024
