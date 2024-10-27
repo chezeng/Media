@@ -1,6 +1,6 @@
 [
   {
-    "id": "brain_in_a_vat",
+    "id": 1,
     "title": "Brain in a Vat",
     "image": "https://chezeng.github.io/Media/WhatIAM/Brain.jpg",
     "date": "2024-08-21",
@@ -8,7 +8,7 @@
     "labels": ["Philosophy", "Experience"]
   },
   {
-    "id": "at_the_crossroads_of_centuries",
+    "id": 2,
     "title": "At the Crossroads of Centuries",
     "image": "https://chezeng.github.io/Media/WhatIAM/Frutiger.jpg",
     "date": "2024-10-04",
