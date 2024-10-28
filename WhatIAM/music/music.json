@@ -6,11 +6,18 @@
         "cover": "https://p1.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg?param=500x500",
         "time": "03:47"
     },
-        {
+    {
         "id": "the_precious_hours",
         "name": "The Precious Hours",
         "singer": "ProleteR",
-        "cover": "https://p2.music.126.net/xsXBhkLcWUqrRzQ3HT8Mhw==/109951170066381886.jpg?param=500x500",
+        "cover": "https://p2.music.126.net/xsXBhkLcWUqrRzQ3HT8Mhw==/109951170066381886.jpg?param=700x700",
         "time": "02:51"
+    },
+    {
+        "id": "fragments_of_time",
+        "name": "Fragments of Time",
+        "singer": "Daft Punk",
+        "cover": "https://p2.music.126.net/GHFv5eordjbjzdXTh8i_8g==/109951167934241950.jpg?param=600x600",
+        "time": "04:39"
     }
 ]
