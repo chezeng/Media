@@ -1,0 +1,23 @@
+[
+    {
+        "id": "color_your_night",
+        "name": "Color Your Night",
+        "singer": "ATLUS Sound Team / Lotus Juice",
+        "cover": "https://p1.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg?param=500x500",
+        "time": "03:47"
+    },
+    {
+        "id": "time_to_pretend",
+        "name": "Time to Pretend",
+        "singer": "Lazer Boomerang",
+        "cover": "https://p1.music.126.net/_Y7v-bJrzsQVaqNYlWkudQ==/109951167921764041.jpg?param=700x700",
+        "time": "05:14"
+    },
+    {
+        "id": "plage_coquillage",
+        "name": "Plage Coquillage",
+        "singer": "Tao mon amour",
+        "cover": "https://p1.music.126.net/LYLxCiK8nunDFFInZGUfSg==/109951169774614096.jpg?param=600x600",
+        "time": "03:11"
+    },
+]
