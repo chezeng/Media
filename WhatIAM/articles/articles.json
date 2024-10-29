@@ -3,7 +3,6 @@
     "id": 1,
     "title": "Brain in a Vat",
     "image": "https://chezeng.github.io/Media/WhatIAM/Brain.jpg",
-    "date": "2024-08-21",
     "preview": "A deep dive into who we truly are and what we really want...",
     "labels": ["Dialogue"]
   },
@@ -11,8 +10,15 @@
     "id": 2,
     "title": "At the Crossroads of Centuries",
     "image": "https://chezeng.github.io/Media/WhatIAM/Frutiger.jpg",
-    "date": "2024-10-04",
     "preview": "An exploration of the technological and cultural intersections between centuries...",
     "labels": ["Soliloquy"]
+  },
+  {
+    "id": 3,
+    "title": "To be a child again, in a dream.",
+    "image": "https://chezeng.github.io/Media/WhatIAM/Dream.jpg",
+    "preview": "Whenever you’re ready, you can reach out—and together, you’ll dance again...",
+    "labels": ["Dialogue"]
   }
+  
 ]
