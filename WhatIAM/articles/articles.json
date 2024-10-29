@@ -5,7 +5,7 @@
     "image": "https://chezeng.github.io/Media/WhatIAM/Brain.jpg",
     "date": "2024-08-21",
     "preview": "A deep dive into who we truly are and what we really want...",
-    "labels": ["Philosophy", "Experience"]
+    "labels": ["Dialogue"]
   },
   {
     "id": 2,
@@ -13,6 +13,6 @@
     "image": "https://chezeng.github.io/Media/WhatIAM/Frutiger.jpg",
     "date": "2024-10-04",
     "preview": "An exploration of the technological and cultural intersections between centuries...",
-    "labels": ["Philosophy", "Experience"]
+    "labels": ["Soliloquy"]
   }
 ]
