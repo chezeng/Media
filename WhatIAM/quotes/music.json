@@ -14,16 +14,9 @@
         "time": "05:14"
     },
     {
-        "id": "fragments_of_time",
-        "name": "Fragments of Time",
-        "singer": "Daft Punk",
-        "cover": "https://p1.music.126.net/GHFv5eordjbjzdXTh8i_8g==/109951167934241950.jpg?param=600x600",
-        "time": "04:39"
-    },
-    {
         "id": "plage_coquillage",
         "name": "Plage Coquillage",
-        "singer": "Tao mon amour",
+        "singer": "Tao Mon Amour",
         "cover": "https://p1.music.126.net/LYLxCiK8nunDFFInZGUfSg==/109951169774614096.jpg?param=600x600",
         "time": "03:11"
     }
