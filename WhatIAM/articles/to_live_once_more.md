@@ -1,4 +1,4 @@
-# To be a child once more, in a dream.
+# To live once more, in a dream.
 
 ![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/Dream.jpg)
 
