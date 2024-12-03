@@ -19,6 +19,14 @@
     "image": "https://chezeng.github.io/Media/WhatIAM/Dream.jpg",
     "preview": "Whenever you’re ready, you can reach out—and together, you’ll dance again...",
     "labels": ["Values 价值观"]
-  }
+  },
+  {
+    "id": "ultimate_law_of_universe",
+    "title": "The Ultimate Law of the Universe",
+    "image": "https://chezeng.github.io/Media/WhatIAM/universe.jpg",
+    "preview": "In a deep and tranquil corner of the cosmos, starlight shimmered...",
+    "labels": ["Art 诗物语"]
+  },
+  
   
 ]
