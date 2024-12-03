@@ -4,21 +4,21 @@
     "title": "Brain in a Vat",
     "image": "https://chezeng.github.io/Media/WhatIAM/Brain.jpg",
     "preview": "A deep dive into who we truly are and what we really want...",
-    "labels": ["Dialogue"]
+    "labels": ["Values 价值观"]
   },
   {
     "id": "at_the_crossroads_of_centuries",
     "title": "At the Crossroads of Centuries",
     "image": "https://chezeng.github.io/Media/WhatIAM/Frutiger.jpg",
     "preview": "An exploration of the technological and cultural intersections between centuries...",
-    "labels": ["Soliloquy"]
+    "labels": ["Art 诗物语"]
   },
   {
     "id": "to_live_once_more",
     "title": "To live once more, in a dream.",
     "image": "https://chezeng.github.io/Media/WhatIAM/Dream.jpg",
     "preview": "Whenever you’re ready, you can reach out—and together, you’ll dance again...",
-    "labels": ["Dialogue"]
+    "labels": ["Values 价值观"]
   }
   
 ]
