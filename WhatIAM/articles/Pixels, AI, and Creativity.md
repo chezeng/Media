@@ -1,4 +1,4 @@
-# A Dialogue on Pixels, AI, and Creativity
+# Pixels, AI, and Creativity
 
 ![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/creativity.png)
 
