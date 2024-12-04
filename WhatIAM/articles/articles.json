@@ -20,12 +20,26 @@
     "preview": "I just finished my end-of-term reflection, and I’m feeling bittersweet about saying goodbye to my class and teacher. Is it normal to feel this way?",
     "labels": ["Life 人生观"]
   },
+  {
+    "id": "internet",
+    "title": "The Internet Is the True ‘According to Their Ability, According to Their Need’",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/internet.png",
+    "preview": "The Internet has become a living embodiment of this principle in ways that Karl Marx could never have imagined...",
+    "labels": ["World 世界观"]
+  },
     {
     "id": "at_the_crossroads_of_centuries",
     "title": "At the Crossroads of Centuries",
     "image": "https://chezeng.github.io/Media/WhatIAM/2024/Frutiger.jpg",
     "preview": "An exploration of the technological and cultural intersections between centuries...",
     "labels": ["Art 诗物语"]
+  },
+  {
+    "id": "art",
+    "title": "Art is the Eternal Preservation of the Best",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/art.png",
+    "preview": "Is art really about preserving the best examples of emergence forever?",
+    "labels": ["World 世界观"]
   },
   {
     "id": "duality",
