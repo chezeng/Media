@@ -157,4 +157,3 @@ If you’re struggling to find jobs, focus on improving your skills and building
 - **Leverage Your Network:** Connect with alumni, peers, and mentors to uncover hidden opportunities.
 - **Be Patient and Persistent:** Landing a remote CS job as a freshman is challenging but achievable with the right mindset and consistent effort.
 
-By following these tips, you can streamline your job search, avoid pitfalls, and set yourself up for long-term success in your CS career. Keep building, keep applying, and remember—every rejection is one step closer to your first “yes”!
