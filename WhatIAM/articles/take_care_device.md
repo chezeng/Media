@@ -1,6 +1,6 @@
-# What are CEO, CTO and CFO
+# How to Take Care of Your Device
 
-![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/what_are_threeOs.png)
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/care_device.png)
 
 Battery health is a common concern for many users, especially when it comes to laptops, tablets, or gaming notebooks. Questions like "Should I keep it plugged in all the time?" or "Do I need to fully charge and discharge it regularly?" often arise. This blog provides practical battery management strategies for MacBook Pro, Alienware laptops, iPads, and general tips for extending battery lifespan.
 
