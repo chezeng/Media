@@ -14,11 +14,8 @@ No, it’s not recommended. Unlike gaming laptops, which are designed to operate
 
 #### **How to Prevent Battery Aging:**
 
-- **Enable “Optimized Battery Charging”**  
-    macOS includes a feature called **Optimized Battery Charging**, which learns your usage patterns and limits charging to around 80% most of the time. The battery will only charge to 100% when it anticipates you’ll need it.
-    - You can enable this in **System Settings → Battery → Optimized Battery Charging**.
-- **Occasionally Discharge the Battery**  
-    If you’re mostly using your MacBook while plugged in, unplug it occasionally and let the battery drain to around 50%-60% before plugging it back in. This avoids keeping the battery at 100% all the time, which can contribute to degradation.
+- **Enable “Optimized Battery Charging”:** macOS includes a feature called **Optimized Battery Charging**, which learns your usage patterns and limits charging to around 80% most of the time. The battery will only charge to 100% when it anticipates you’ll need it. You can enable this in **System Settings → Battery → Optimized Battery Charging**.
+- **Occasionally Discharge the Battery:** If you’re mostly using your MacBook while plugged in, unplug it occasionally and let the battery drain to around 50%-60% before plugging it back in. This avoids keeping the battery at 100% all the time, which can contribute to degradation.
 
 ---
 
@@ -36,23 +33,18 @@ Not often. Lithium-ion batteries don’t benefit from frequent deep discharges (
 
 Alienware laptops, like most high-end gaming notebooks, are often used while plugged in. In many cases, this is perfectly fine because manufacturers design these systems with features that protect the battery during extended plug-in periods:
 
-- **Battery Bypass Functionality:**  
-    Some Alienware models include a feature where the system bypasses the battery entirely and draws power directly from the adapter. This reduces battery wear while plugged in.
+- **Battery Bypass Functionality:** Some Alienware models include a feature where the system bypasses the battery entirely and draws power directly from the adapter. This reduces battery wear while plugged in.
     
-- **Heat Management Considerations:**  
-    Alienware laptops tend to generate heat during heavy gaming sessions. Since heat is a major factor in battery aging, maintaining good ventilation is key.
+- **Heat Management Considerations:** Alienware laptops tend to generate heat during heavy gaming sessions. Since heat is a major factor in battery aging, maintaining good ventilation is key.
     
 
 #### **Alienware Battery Tips:**
 
-- **Check for Battery Management Features:**  
-    Some Alienware models allow you to limit charging to 80% via BIOS or battery management software. This is similar to macOS’s “Optimized Battery Charging” feature and helps prolong battery life.
+- **Check for Battery Management Features:** Some Alienware models allow you to limit charging to 80% via BIOS or battery management software. This is similar to macOS’s “Optimized Battery Charging” feature and helps prolong battery life.
     
-- **Occasionally Disconnect the Power Adapter:**  
-    Even with advanced battery management, it's good to unplug the laptop once a month and discharge the battery to around 20%-30% before recharging it fully.
+- **Occasionally Disconnect the Power Adapter:** Even with advanced battery management, it's good to unplug the laptop once a month and discharge the battery to around 20%-30% before recharging it fully.
     
-- **Prioritize Cooling:**  
-    Overheating accelerates battery wear. Use a cooling pad, ensure adequate airflow, and clean dust from vents regularly.
+- **Prioritize Cooling:** Overheating accelerates battery wear. Use a cooling pad, ensure adequate airflow, and clean dust from vents regularly.
     
 
 ---
@@ -63,12 +55,10 @@ iPads are closer to smartphones than laptops in terms of battery usage. While it
 
 #### **General iPad Battery Tips:**
 
-- **Keep Battery Between 20%-80%:**  
-    Avoid deep discharges (letting it drop below 10%) and prolonged periods at 100%.
+- **Keep Battery Between 20%-80%:**  Avoid deep discharges (letting it drop below 10%) and prolonged periods at 100%.
     
     - Example: If you’re using your iPad as a stationary device (e.g., for reading, as a monitor), try not to keep it constantly plugged in.
-- **Enable “Optimized Battery Charging” (if available):**  
-    For supported models, this feature prevents the battery from staying at 100% for long periods by pausing charging at 80%.
+- **Enable “Optimized Battery Charging” (if available):**   For supported models, this feature prevents the battery from staying at 100% for long periods by pausing charging at 80%.
     
 
 #### **Do You Need to Fully Discharge the iPad?**
@@ -134,8 +124,7 @@ A quick detour: If you’ve wondered whether frequent Windows reinstallations wi
 
 #### **1. Does Reinstalling Windows Slow Down the Process Over Time?**
 
-- **No, in most cases:**  
-    The time it takes to reinstall Windows should remain consistent if your hardware is in good condition. Performance issues during installation could indicate aging hardware (e.g., hard drive or SSD problems).
+- **No, in most cases:** The time it takes to reinstall Windows should remain consistent if your hardware is in good condition. Performance issues during installation could indicate aging hardware (e.g., hard drive or SSD problems).
 
 #### **2. Does Reinstalling Windows Damage Hardware?**
 
