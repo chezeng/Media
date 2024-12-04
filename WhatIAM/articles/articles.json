@@ -13,6 +13,13 @@
     "preview": "Finding a remote job as a computer science (CS) freshman can feel like a daunting task...",
     "labels": ["Tools 知识库"]
   },
+  {
+    "id": "departure",
+    "title": "Reflecting on Life’s Impermanence",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/departure.png",
+    "preview": "I just finished my end-of-term reflection, and I’m feeling bittersweet about saying goodbye to my class and teacher. Is it normal to feel this way?",
+    "labels": ["Life 人生观"]
+  },
     {
     "id": "at_the_crossroads_of_centuries",
     "title": "At the Crossroads of Centuries",
@@ -40,13 +47,6 @@
     "image": "https://chezeng.github.io/Media/WhatIAM/2024/choose_toothpaste.png",
     "preview": "Questions about abrasive ingredients, fluoride types and sensitivity treatments often arise...",
     "labels": ["Tools 知识库"]
-  },
-  {
-    "id": "departure",
-    "title": "Reflecting on Life’s Impermanence",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/departure.png",
-    "preview": "I just finished my end-of-term reflection, and I’m feeling bittersweet about saying goodbye to my class and teacher. Is it normal to feel this way?",
-    "labels": ["Life 人生观"]
   },
     {
     "id": "what_are_threeOs",
