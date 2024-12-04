@@ -12,13 +12,17 @@ When job hunting, "randomly applying" refers to sending out resumes without rese
 
 #### **The Risks of Random Applications**
 
-**Inefficiency and Low Success Rates: ** A generic resume often gets ignored because recruiters look for tailored applications that align with their job requirements. Applying to irrelevant roles wastes your time and energy that could be spent on preparing better applications for relevant opportunities.
+- **Inefficiency and Low Success Rates:**
+  A generic resume often gets ignored because recruiters look for tailored applications that align with their job requirements. Applying to irrelevant roles wastes your time and energy that could be spent on preparing better applications for relevant opportunities.
     
-**Damage to Your Personal Brand: ** Submitting poorly tailored resumes may leave a negative impression on recruiters, especially if the company keeps records of applications. This could hurt your chances of being reconsidered in the future for a role you're actually qualified for.
+- **Damage to Your Personal Brand:**
+  Submitting poorly tailored resumes may leave a negative impression on recruiters, especially if the company keeps records of applications. This could hurt your chances of being reconsidered in the future for a role you're actually qualified for.
     
-**Risk of Information Misuse:** Randomly submitting your resume, especially to unknown platforms, increases the risk of your personal information being stolen or misused, such as your email address or phone number.
+- **Risk of Information Misuse:**
+  Randomly submitting your resume, especially to unknown platforms, increases the risk of your personal information being stolen or misused, such as your email address or phone number.
 
-**Missed Opportunities for Improvement:** Without tailoring your resume, you’re less likely to showcase the skills and experiences that match the job, reducing your chances of standing out among candidates.
+- **Missed Opportunities for Improvement:**
+  Without tailoring your resume, you’re less likely to showcase the skills and experiences that match the job, reducing your chances of standing out among candidates.
 
 ---
 
@@ -55,10 +59,13 @@ Remote work has opened doors for aspiring professionals, but it has also created
 **Red Flags in Job Postings**
     - Offers of “easy work for high pay,” no required qualifications, or promises that sound too good to be true are often scams.
     - Avoid companies that skip the interview process and offer you the job outright.
+
 **Upfront Payment Requests**
     - Legitimate companies will never ask you to pay for training, software, or any upfront fees.
+
 **Excessive Personal Information Requests**
     - Be cautious if they ask for sensitive information like your social security number or bank details early in the process.
+
 **Unrealistic Salaries for Beginners**
     - Entry-level remote roles rarely offer abnormally high salaries. If the offer seems suspiciously lucrative, research further.
 
@@ -66,11 +73,11 @@ Remote work has opened doors for aspiring professionals, but it has also created
 
 #### **How to Research a Company**
 
-**Google the Company Name:** Check for their website and reviews. Platforms like Glassdoor and Reddit can provide insights into employee experiences and potential scam alerts.
+- **Google the Company Name:** Check for their website and reviews. Platforms like Glassdoor and Reddit can provide insights into employee experiences and potential scam alerts.
 
-**Verify Job Postings:** Cross-check the job ad on the company’s official website or LinkedIn profile to ensure it’s real.
+- **Verify Job Postings:** Cross-check the job ad on the company’s official website or LinkedIn profile to ensure it’s real.
 
-**Consult Your Network: ** Ask professors, alumni, or friends if they’ve heard of the company. Personal recommendations can help you avoid risks.
+- **Consult Your Network:** Ask professors, alumni, or friends if they’ve heard of the company. Personal recommendations can help you avoid risks.
 
 ---
 
@@ -81,13 +88,12 @@ While it’s true that freshmen have limited experience compared to upperclassme
 #### **Build a Competitive Resume**
 
 **Highlight Projects**
-    
     - Personal projects can make up for a lack of work experience. Include relevant coursework, hackathon projects, or passion projects. For example:
-        - _“Developed a personal budget tracker using Python, which tracks expenses and generates monthly reports.”_
-        - _“Created a responsive portfolio website using React and deployed it on Vercel.”_
+        - “Developed a personal budget tracker using Python, which tracks expenses and generates monthly reports.”
+        - “Created a responsive portfolio website using React and deployed it on Vercel.”
     - Provide GitHub links or deployed demos when possible.
-**Emphasize Skills**
     
+**Emphasize Skills**
     - Include technical skills like programming languages (e.g., Python, C++, JavaScript), frameworks (React, Node.js), and tools (Git, VSCode).
     - Add soft skills like problem-solving, teamwork, and adaptability.
 **Use Metrics**
