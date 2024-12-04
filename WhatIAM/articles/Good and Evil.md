@@ -1,4 +1,4 @@
-# Absolute Good and Absolute Evil
+# Good and Evil
 
 ![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/duality.png)
 
