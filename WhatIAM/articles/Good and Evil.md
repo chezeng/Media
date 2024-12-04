@@ -1,3 +1,6 @@
+# Absolute Good and Absolute Evil
+
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/duality.png)
 
 #### **Q: Is there such a thing as “absolute good” or “absolute evil”? Or are these just philosophical concepts that don’t really exist in the real world?**
 
