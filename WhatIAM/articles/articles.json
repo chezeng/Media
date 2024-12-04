@@ -7,13 +7,6 @@
     "labels": ["Life 人生观"]
   },
   {
-    "id": "how_to_find_jobs",
-    "title": "A Beginner’s Guide of How to Find a CS Job",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/how_to_find_jobs.png",
-    "preview": "Finding a remote job as a computer science (CS) freshman can feel like a daunting task...",
-    "labels": ["Tools 知识库"]
-  },
-  {
     "id": "departure",
     "title": "Reflecting on Life’s Impermanence",
     "image": "https://chezeng.github.io/Media/WhatIAM/2024/departure.png",
@@ -76,15 +69,6 @@
     "preview": "In a deep and tranquil corner of the cosmos, starlight shimmered...",
     "labels": ["Art 诗物语"]
   },
-
-    {
-    "id": "how_to_wash",
-    "title": "A Complete Guide of Washing",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/how_to_wash.png",
-    "preview": "When it comes to cleaning your bedding, we all know that sheets can go straight into the washing machine...",
-    "labels": ["Tools 知识库"]
-  },
-
     {
     "id": "take_care_device",
     "title": "How to Take Care of Your Device",
