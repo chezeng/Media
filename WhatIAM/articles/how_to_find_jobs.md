@@ -48,17 +48,13 @@ Remote work has opened doors for aspiring professionals, but it has also created
 
 #### **Signs of a Legitimate Company**
 
-**Structured Recruitment Process: **
-- Legitimate companies typically follow a professional hiring process, which includes clear job descriptions, formal interviews (video/phone calls), and official communication via company email addresses (e.g., @companyname.com).
+- **Structured Recruitment Process: **Legitimate companies typically follow a professional hiring process, which includes clear job descriptions, formal interviews (video/phone calls), and official communication via company email addresses (e.g., @companyname.com).
   
-**Clear Job Descriptions:** 
-- Look for detailed job postings that specify responsibilities, required skills, and expectations. Vague or overly generic postings may be a red flag.
+- **Clear Job Descriptions:** Look for detailed job postings that specify responsibilities, required skills, and expectations. Vague or overly generic postings may be a red flag.
   
-**Presence on Reliable Platforms:**
-- Trustworthy companies often post jobs on reputable sites like LinkedIn, Glassdoor, AngelList, or your university’s job board.
+- **Presence on Reliable Platforms:** Trustworthy companies often post jobs on reputable sites like LinkedIn, Glassdoor, AngelList, or your university’s job board.
 
-**Active Online Presence:**
-- Check if the company has an official website, LinkedIn profile, and online reviews. Be cautious if you can’t find much information about the company.
+- **Active Online Presence:** Check if the company has an official website, LinkedIn profile, and online reviews. Be cautious if you can’t find much information about the company.
 
 ---
 
