@@ -1,3 +1,7 @@
+# A Complete Guide of Choosing the Right Toothpaste
+
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/choose_toothpaste.png)
+
 When it comes to toothpaste, making the right choice can feel overwhelming, especially when your dentist advises avoiding whitening products. Questions about abrasive ingredients, fluoride types, sensitivity treatments, and the safety of certain chemical compounds often arise. In this blog, we’ll address these concerns and help you choose a toothpaste that’s safe and effective for your specific needs.
 
 ---
