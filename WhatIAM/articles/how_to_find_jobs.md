@@ -12,18 +12,17 @@ When job hunting, "randomly applying" refers to sending out resumes without rese
 
 #### **The Risks of Random Applications**
 
-- **Inefficiency and Low Success Rates**
-    
+**Inefficiency and Low Success Rates** 
     - A generic resume often gets ignored because recruiters look for tailored applications that align with their job requirements.
     - Applying to irrelevant roles wastes your time and energy that could be spent on preparing better applications for relevant opportunities.
-- **Damage to Your Personal Brand**
     
+**Damage to Your Personal Brand**
     - Submitting poorly tailored resumes may leave a negative impression on recruiters, especially if the company keeps records of applications. This could hurt your chances of being reconsidered in the future for a role you're actually qualified for.
-- **Risk of Information Misuse**
     
+**Risk of Information Misuse**
     - Randomly submitting your resume, especially to unknown platforms, increases the risk of your personal information being stolen or misused, such as your email address or phone number.
-- **Missed Opportunities for Improvement**
-    
+
+**Missed Opportunities for Improvement**
     - Without tailoring your resume, you’re less likely to showcase the skills and experiences that match the job, reducing your chances of standing out among candidates.
 
 ---
@@ -32,9 +31,14 @@ When job hunting, "randomly applying" refers to sending out resumes without rese
 
 Instead of scattering applications everywhere, focus on quality over quantity:
 
-- **Target Specific Companies:** Look for startups, small companies, or internship-friendly organizations open to beginners. They are more likely to value enthusiasm and potential over experience.
-- **Customize Your Resume:** Highlight relevant skills and projects for each job posting. For example, if applying to a front-end developer role, emphasize your HTML, CSS, and JavaScript experience.
-- **Balance Quality and Quantity:** Aim to apply to 3–5 well-researched jobs daily, rather than sending 20+ generic applications.
+**Target Specific Companies:** 
+- Look for startups, small companies, or internship-friendly organizations open to beginners. They are more likely to value enthusiasm and potential over experience.
+  
+**Customize Your Resume:**
+- Highlight relevant skills and projects for each job posting. For example, if applying to a front-end developer role, emphasize your HTML, CSS, and JavaScript experience.
+  
+**Balance Quality and Quantity:**
+- Aim to apply to 3–5 well-researched jobs daily, rather than sending 20+ generic applications.
 
 ---
 
@@ -44,35 +48,30 @@ Remote work has opened doors for aspiring professionals, but it has also created
 
 #### **Signs of a Legitimate Company**
 
-- **Structured Recruitment Process**
-    
-    - Legitimate companies typically follow a professional hiring process, which includes clear job descriptions, formal interviews (video/phone calls), and official communication via company email addresses (e.g., @companyname.com).
-- **Clear Job Descriptions**
-    
-    - Look for detailed job postings that specify responsibilities, required skills, and expectations. Vague or overly generic postings may be a red flag.
-- **Presence on Reliable Platforms**
-    
-    - Trustworthy companies often post jobs on reputable sites like LinkedIn, Glassdoor, AngelList, or your university’s job board.
-- **Active Online Presence**
-    
-    - Check if the company has an official website, LinkedIn profile, and online reviews. Be cautious if you can’t find much information about the company.
+**Structured Recruitment Process: **
+- Legitimate companies typically follow a professional hiring process, which includes clear job descriptions, formal interviews (video/phone calls), and official communication via company email addresses (e.g., @companyname.com).
+  
+**Clear Job Descriptions:** 
+- Look for detailed job postings that specify responsibilities, required skills, and expectations. Vague or overly generic postings may be a red flag.
+  
+**Presence on Reliable Platforms:**
+- Trustworthy companies often post jobs on reputable sites like LinkedIn, Glassdoor, AngelList, or your university’s job board.
+
+**Active Online Presence:**
+- Check if the company has an official website, LinkedIn profile, and online reviews. Be cautious if you can’t find much information about the company.
 
 ---
 
 #### **How to Identify Scams**
 
-- **Red Flags in Job Postings**
-    
+**Red Flags in Job Postings**
     - Offers of “easy work for high pay,” no required qualifications, or promises that sound too good to be true are often scams.
     - Avoid companies that skip the interview process and offer you the job outright.
-- **Upfront Payment Requests**
-    
+**Upfront Payment Requests**
     - Legitimate companies will never ask you to pay for training, software, or any upfront fees.
-- **Excessive Personal Information Requests**
-    
+**Excessive Personal Information Requests**
     - Be cautious if they ask for sensitive information like your social security number or bank details early in the process.
-- **Unrealistic Salaries for Beginners**
-    
+**Unrealistic Salaries for Beginners**
     - Entry-level remote roles rarely offer abnormally high salaries. If the offer seems suspiciously lucrative, research further.
 
 ---
