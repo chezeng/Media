@@ -42,7 +42,7 @@
     "labels": ["Tools 知识库"]
   },
     {
-    "id": "care_device",
+    "id": "take_care_device",
     "title": "How to Take Care of Your Device",
     "image": "https://chezeng.github.io/Media/WhatIAM/2024/care_device.png",
     "preview": "Battery health is a common concern for many users, especially when it comes to laptops, tablets, or gaming notebooks... ",
