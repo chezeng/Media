@@ -12,9 +12,9 @@ If your dentist has recommended avoiding whitening toothpaste, it’s likely due
 
 #### **Potential Risks of Whitening Toothpaste:**
 
-1. **Enamel Wear**  
+**Enamel Wear**  
     Prolonged use of abrasive toothpaste may lead to enamel thinning, which can exacerbate tooth sensitivity and increase the risk of cavities.
-2. **Exacerbating Sensitivity**  
+**Exacerbating Sensitivity**  
     For people with exposed dentin or pre-existing sensitivity, the abrasives in whitening toothpaste can worsen the problem.
 
 ---
@@ -38,10 +38,10 @@ Sensodyne is formulated to be low-abrasion and ideal for individuals prone to se
 
 Fluoride is a key ingredient in cavity prevention, but different types of fluoride work in slightly different ways:
 
-1. **Sodium Fluoride (NaF)**
+**Sodium Fluoride (NaF)**
    Quickly releases fluoride ions that bind to enamel, making it more resistant to acid attacks from food and bacteria; commonly found in Sensodyne and other cavity-preventing toothpaste.
     
-2. **Sodium Monofluorophosphate (SMFP)**
+**Sodium Monofluorophosphate (SMFP)**
    Releases fluoride ions more slowly and gently, providing gradual protection over time; often included in toothpaste brands like Colgate, SMFP is considered equally effective for cavity prevention but is milder, making it suitable for sensitive teeth.
 
 **Verdict:**  
