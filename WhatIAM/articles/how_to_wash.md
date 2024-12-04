@@ -1,3 +1,6 @@
+# A Complete Guide of Washing
+
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/how_to_wash.png)
 
 When it comes to cleaning your bedding, we all know that sheets can go straight into the washing machine. But what about plush blankets or comforters? The answer is usually yes, but there are important steps to take to ensure they’re cleaned properly without causing damage. Let’s break it down.
 
