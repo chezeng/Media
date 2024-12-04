@@ -1,3 +1,7 @@
+# What are CEO, CTO and CFO
+
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/what_are_threeOs.png)
+
 
 There are many positions in a company responsible for managing and making decisions in different areas. Below are the responsibilities of several key roles:
 
