@@ -1,29 +1,15 @@
 [
   {
-    "id": "brain_in_a_vat",
-    "title": "Brain in a Vat",
-    "image": "https://chezeng.github.io/Media/WhatIAM/Brain.jpg",
-    "preview": "A deep dive into who we truly are and what we really want...",
-    "labels": ["Values 价值观"]
-  },
-  {
     "id": "at_the_crossroads_of_centuries",
     "title": "At the Crossroads of Centuries",
-    "image": "https://chezeng.github.io/Media/WhatIAM/Frutiger.jpg",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/Frutiger.jpg",
     "preview": "An exploration of the technological and cultural intersections between centuries...",
     "labels": ["Art 诗物语"]
   },
   {
-    "id": "to_live_once_more",
-    "title": "To live once more, in a dream.",
-    "image": "https://chezeng.github.io/Media/WhatIAM/Dream.jpg",
-    "preview": "Whenever you’re ready, you can reach out—and together, you’ll dance again...",
-    "labels": ["Values 价值观"]
-  },
-  {
     "id": "ultimate_law_of_universe",
     "title": "The Ultimate Law of the Universe",
-    "image": "https://chezeng.github.io/Media/WhatIAM/ultimate_law_of_universe.png",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/ultimate_law_of_universe.png",
     "preview": "In a deep and tranquil corner of the cosmos, starlight shimmered...",
     "labels": ["Art 诗物语"]
   }
