@@ -1,6 +1,6 @@
 # At the Crossroads of Centuries 
 
-![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/Frutiger.jpg)
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/Frutiger.jpg)
 
 Sitting here, illuminated by my computer screen, I can’t help but be transported back to the early 2000s—a time when the world seemed full of optimism, caught between old traditions and the thrill of a rapidly approaching future. It was a unique moment in history: we were on the edge of unprecedented technological advancement, but we hadn’t yet lost sight of the familiar ways of life. Standing at the crossroads of two centuries, we felt an undeniable sense of hope and wonder.
 
