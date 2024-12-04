@@ -1,4 +1,8 @@
- 
+
+# Reflecting on Life’s Impermanence
+
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/departure.png)
+
 #### **Q: I just finished my end-of-term reflection, and I’m feeling bittersweet about saying goodbye to my class and teacher. Is it normal to feel this way?**
 
 **A:** Absolutely. Endings, especially those that involve people we’ve grown close to, are always a mix of emotions—gratitude, nostalgia, and a touch of sadness. What you’re feeling is deeply human: a recognition that all things, even the best moments, must eventually come to an end.
