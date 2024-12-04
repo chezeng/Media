@@ -7,11 +7,11 @@
     "labels": ["Life 人生观"]
   }, 
   {
-    "id": "choose_toothpaste",
-    "title": "A Complete Guide of Choosing the Right Toothpaste",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/choose_toothpaste.png",
-    "preview": "Questions about abrasive ingredients, fluoride types and sensitivity treatments often arise...",
-    "labels": ["Tools 知识库"]
+    "id": "creativity",
+    "title": "Pixels, AI, and Creativity",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/creativity.png",
+    "preview": "Are possibilities does that mean every “beautiful” image already exists in this space of potential? And what does that say about creativity?",
+    "labels": ["World 世界观"]
   },
   {
     "id": "departure",
@@ -49,11 +49,11 @@
     "labels": ["Values 价值观"]
   },
   {
-    "id": "creativity",
-    "title": "Pixels, AI, and Creativity",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/creativity.png",
-    "preview": "Are possibilities does that mean every “beautiful” image already exists in this space of potential? And what does that say about creativity?",
-    "labels": ["World 世界观"]
+    "id": "choose_toothpaste",
+    "title": "A Complete Guide of Choosing the Right Toothpaste",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/choose_toothpaste.png",
+    "preview": "Questions about abrasive ingredients, fluoride types and sensitivity treatments often arise...",
+    "labels": ["Tools 知识库"]
   },
     {
     "id": "what_are_threeOs",
