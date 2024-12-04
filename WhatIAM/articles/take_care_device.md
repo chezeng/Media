@@ -157,6 +157,3 @@ A quick detour: If you’ve wondered whether frequent Windows reinstallations wi
 - It doesn’t harm hardware but can reduce SSD lifespan if done excessively.
 - Always back up your data and format the disk to avoid leftover files.
 
----
-
-With these tips, you’ll have both your battery health and system maintenance under control, ensuring your devices run smoothly and efficiently for years to come!
