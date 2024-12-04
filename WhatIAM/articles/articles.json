@@ -1,19 +1,5 @@
 [
-  {
-    "id": "at_the_crossroads_of_centuries",
-    "title": "At the Crossroads of Centuries",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/Frutiger.jpg",
-    "preview": "An exploration of the technological and cultural intersections between centuries...",
-    "labels": ["Art 诗物语"]
-  },
-  {
-    "id": "ultimate_law_of_universe",
-    "title": "The Ultimate Law of the Universe",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/ultimate_law_of_universe.png",
-    "preview": "In a deep and tranquil corner of the cosmos, starlight shimmered...",
-    "labels": ["Art 诗物语"]
-  },
-  {
+    {
     "id": "how_to_find_jobs",
     "title": "A Beginner’s Guide of How to Find a CS Job",
     "image": "https://chezeng.github.io/Media/WhatIAM/2024/how_to_find_jobs.png",
@@ -28,11 +14,11 @@
     "labels": ["Tools 知识库"]
   },
     {
-    "id": "how_to_wash",
-    "title": "A Complete Guide of Washing",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/how_to_wash.png",
-    "preview": "When it comes to cleaning your bedding, we all know that sheets can go straight into the washing machine...",
-    "labels": ["Tools 知识库"]
+    "id": "at_the_crossroads_of_centuries",
+    "title": "At the Crossroads of Centuries",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/Frutiger.jpg",
+    "preview": "An exploration of the technological and cultural intersections between centuries...",
+    "labels": ["Art 诗物语"]
   },
     {
     "id": "what_are_threeOs",
@@ -41,6 +27,22 @@
     "preview": "There are many positions in a company responsible for managing and making decisions in different areas...",
     "labels": ["Tools 知识库"]
   },
+  {
+    "id": "ultimate_law_of_universe",
+    "title": "The Ultimate Law of the Universe",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/ultimate_law_of_universe.png",
+    "preview": "In a deep and tranquil corner of the cosmos, starlight shimmered...",
+    "labels": ["Art 诗物语"]
+  },
+
+    {
+    "id": "how_to_wash",
+    "title": "A Complete Guide of Washing",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/how_to_wash.png",
+    "preview": "When it comes to cleaning your bedding, we all know that sheets can go straight into the washing machine...",
+    "labels": ["Tools 知识库"]
+  },
+
     {
     "id": "take_care_device",
     "title": "How to Take Care of Your Device",
