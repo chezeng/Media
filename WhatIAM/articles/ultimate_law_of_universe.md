@@ -1,6 +1,6 @@
 # The Ultimate Law of the Universe
 
-![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/ultimate_law_of_universe.png)
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/ultimate_law_of_universe.png)
 
 In a deep and tranquil corner of the cosmos, starlight shimmered like scattered sparks drifting through the void. A young man found himself floating in an endless sea of chaos. He had no idea how he got there, nor what kind of existence he was now facing. All he could remember was that, just moments ago, he had been working overtime at his office, the coffee on his desk still warm. Then, a dazzling flash of light overwhelmed his vision, and everything changed.
 
