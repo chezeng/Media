@@ -1,16 +1,16 @@
 [
-    {
+  {
+    "id": "freedom",
+    "title": "What Freedom Truly Means",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/freedom.png",
+    "preview": "I’ve been struggling with the concept of freedom lately. Is it just being able to do what I want?",
+    "labels": ["Life 人生观"]
+  },
+  {
     "id": "how_to_find_jobs",
     "title": "A Beginner’s Guide of How to Find a CS Job",
     "image": "https://chezeng.github.io/Media/WhatIAM/2024/how_to_find_jobs.png",
     "preview": "Finding a remote job as a computer science (CS) freshman can feel like a daunting task...",
-    "labels": ["Tools 知识库"]
-  },
-    {
-    "id": "choose_toothpaste",
-    "title": "A Complete Guide of Choosing the Right Toothpaste",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/choose_toothpaste.png",
-    "preview": "Questions about abrasive ingredients, fluoride types and sensitivity treatments often arise...",
     "labels": ["Tools 知识库"]
   },
     {
@@ -19,6 +19,34 @@
     "image": "https://chezeng.github.io/Media/WhatIAM/2024/Frutiger.jpg",
     "preview": "An exploration of the technological and cultural intersections between centuries...",
     "labels": ["Art 诗物语"]
+  },
+  {
+    "id": "duality",
+    "title": "Good and Evil",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/duality.png",
+    "preview": "Is there such a thing as “absolute good” or “absolute evil”? Or are these just philosophical concepts that don’t really exist in the real world?",
+    "labels": ["Life 人生观"]
+  },
+  {
+    "id": "creativity",
+    "title": "Pixels, AI, and Creativity",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/creativity.png",
+    "preview": "Are possibilities does that mean every “beautiful” image already exists in this space of potential? And what does that say about creativity?",
+    "labels": ["Life 人生观"]
+  },
+    {
+    "id": "choose_toothpaste",
+    "title": "A Complete Guide of Choosing the Right Toothpaste",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/choose_toothpaste.png",
+    "preview": "Questions about abrasive ingredients, fluoride types and sensitivity treatments often arise...",
+    "labels": ["Tools 知识库"]
+  },
+  {
+    "id": "departure",
+    "title": "Reflecting on Life’s Impermanence",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/departure.png",
+    "preview": "I just finished my end-of-term reflection, and I’m feeling bittersweet about saying goodbye to my class and teacher. Is it normal to feel this way?",
+    "labels": ["Life 人生观"]
   },
     {
     "id": "what_are_threeOs",
