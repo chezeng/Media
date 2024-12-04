@@ -120,6 +120,3 @@ If the **medical ingredients** list only includes **potassium nitrate** and **so
     Always consult your dentist for recommendations tailored to your specific dental needs.
     
 
----
-
-By understanding the purpose of each ingredient, you can confidently choose a toothpaste that meets your needs while protecting your enamel and reducing sensitivity. Whether you prioritize whitening, remineralization, or sensitivity relief, the right toothpaste can make all the difference in your oral health routine!
