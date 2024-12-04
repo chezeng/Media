@@ -52,21 +52,6 @@ Before tossing your plush blanket or comforter into the washing machine, always 
 
 ---
 
-### **What About Disinfecting and Killing Dust Mites?**
-
-Living in an apartment without access to outdoor drying space can make it tricky to sun your blankets and comforters for disinfection. So, what’s better: using a dryer or sunlight? Let’s compare.
-
-#### **Dryer vs. Sunlight: Disinfection and Dust Mite Removal**
-
-| **Factor**                | **High-Temperature Dryer**                                                                          | **Sunlight**                                                                                     |
-| ------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Bacteria Removal**      | High temperatures (above 55°C/131°F) effectively kill bacteria and dust mites within 10-30 minutes. | UV rays in sunlight can kill bacteria, but effectiveness depends on intensity and exposure time. |
-| **Dust Mite Elimination** | The heat in a dryer can kill both mites and their eggs.                                             | UV rays can deter mites but are less effective at killing them deep inside fabric layers.        |
-| **Convenience**           | Works any time, regardless of weather.                                                              | Requires sunny weather and a safe place to dry items outdoors.                                   |
-| **Impact on Fabric**      | Prolonged high heat may damage or stiffen some fabrics. Use low heat for delicate items.            | Sunlight can fade colors or make fabrics stiff if overexposed.                                   |
-
----
-
 ### **For Killing Dust Mites, High-Temperature Dryers Win**
 
 If you want to eliminate dust mites and bacteria effectively, a dryer with a high-temperature setting is the better option.
