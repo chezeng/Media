@@ -17,11 +17,11 @@ Now, if every pixel could independently display any of these 16.7 million colors
 
 Ah, now you’re touching on the heart of the question! Let’s dive into this.
 
-- **Beauty Is Rare:** While the mathematical possibilities are infinite, not every random arrangement of pixels is meaningful, let alone beautiful. Most combinations would just look like static noise, chaotic and indecipherable. True beauty is about patterns, intention, and harmony.
+**Beauty Is Rare:** While the mathematical possibilities are infinite, not every random arrangement of pixels is meaningful, let alone beautiful. Most combinations would just look like static noise, chaotic and indecipherable. True beauty is about patterns, intention, and harmony.
     
-- **The Role of Subjectivity:** Beauty is subjective—different cultures, people, and eras have varying definitions of what’s beautiful. However, we can often find common ground: symmetry, balance, color harmony, and emotional resonance tend to be universal markers of beauty.
+**The Role of Subjectivity:** Beauty is subjective—different cultures, people, and eras have varying definitions of what’s beautiful. However, we can often find common ground: symmetry, balance, color harmony, and emotional resonance tend to be universal markers of beauty.
     
-- **Artists vs. Randomness:** Random arrangements of pixels rarely produce art. Artists, on the other hand, impose intention and structure on their work. Even in abstraction, they use rules of composition and design to create something visually compelling.
+**Artists vs. Randomness:** Random arrangements of pixels rarely produce art. Artists, on the other hand, impose intention and structure on their work. Even in abstraction, they use rules of composition and design to create something visually compelling.
     
 
 So, out of the astronomical number of possible images, the percentage of “beautiful” ones is vanishingly small. But that’s part of the magic—it’s the rarity of beauty that makes it special.
