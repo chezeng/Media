@@ -1,3 +1,6 @@
+# A Beginner’s Guide of How to Find a CS Job
+
+![Image Alt Text](https://chezeng.github.io/Media/WhatIAM/2024/how_to_find_jobs.png)
 
 Finding a remote job as a computer science (CS) freshman can feel like a daunting task, especially when competition is fierce and rejection is common. You may have heard stories of people applying to hundreds of jobs without success. So, how can you stand out, and what should you avoid? Here’s a comprehensive guide addressing your concerns about “randomly applying” and avoiding job scams, while also sharing practical tips to maximize your chances of success.
 
