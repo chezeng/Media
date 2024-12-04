@@ -112,4 +112,3 @@ If you’ve ever shaken out a blanket indoors, you’ll know the pain of seeing 
 - **Disinfect regularly:** If you live in a humid environment, prioritize regular washing and drying to keep dust mites at bay.
 - **Choose what works for you:** High-temperature dryers, sunlight, and steam cleaning are all excellent ways to keep your bedding clean and safe.
 
-By following these tips, you can enjoy fresh, clean, and dust-free bedding, even in an apartment setting. Have other questions about home care or cleaning? Feel free to ask anytime! 😊
