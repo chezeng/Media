@@ -49,6 +49,13 @@
     "labels": ["Values 价值观"]
   },
   {
+    "id": "ultimate_law_of_universe",
+    "title": "The Ultimate Law of the Universe",
+    "image": "https://chezeng.github.io/Media/WhatIAM/2024/ultimate_law_of_universe.png",
+    "preview": "In a deep and tranquil corner of the cosmos, starlight shimmered...",
+    "labels": ["Art 诗物语"]
+  },
+  {
     "id": "choose_toothpaste",
     "title": "A Complete Guide of Choosing the Right Toothpaste",
     "image": "https://chezeng.github.io/Media/WhatIAM/2024/choose_toothpaste.png",
@@ -62,13 +69,7 @@
     "preview": "There are many positions in a company responsible for managing and making decisions in different areas...",
     "labels": ["Tools 知识库"]
   },
-  {
-    "id": "ultimate_law_of_universe",
-    "title": "The Ultimate Law of the Universe",
-    "image": "https://chezeng.github.io/Media/WhatIAM/2024/ultimate_law_of_universe.png",
-    "preview": "In a deep and tranquil corner of the cosmos, starlight shimmered...",
-    "labels": ["Art 诗物语"]
-  },
+
     {
     "id": "take_care_device",
     "title": "How to Take Care of Your Device",
